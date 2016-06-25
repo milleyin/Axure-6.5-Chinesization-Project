@@ -7,5 +7,7 @@ And best919 collaborative translation works, in 2012
 
 ####use
 
-download the `default` file into your `lang` folder in your axure path
+- for axure v6.5 
+
+- download the `default` file into your `lang` folder in your axure path
 
